@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<pad>
+	<page1>
+		<ico1 path="C:\MyDockFinder\launchpad\Pinned\Google Chrome.lnk">Google Chrome</ico1>
+		<ico2 path="C:\MyDockFinder\launchpad\Pinned\Epic Games Launcher.lnk">Epic Games Launcher</ico2>
+		<ico3 path="C:\MyDockFinder\launchpad\Pinned\Settings.lnk">Settings</ico3>
+		<ico4 path="C:\MyDockFinder\launchpad\Pinned\LibreOffice.lnk">LibreOffice</ico4>
+		<ico5 path="C:\MyDockFinder\launchpad\Pinned\LibreOffice Writer.lnk">LibreOffice Writer</ico5>
+		<ico6 path="C:\MyDockFinder\launchpad\Pinned\LibreOffice Math.lnk">LibreOffice Math</ico6>
+		<ico7 path="C:\MyDockFinder\launchpad\Pinned\LibreOffice Impress.lnk">LibreOffice Impress</ico7>
+		<ico8 path="C:\MyDockFinder\launchpad\Pinned\LibreOffice Draw.lnk">LibreOffice Draw</ico8>
+		<ico9 path="C:\MyDockFinder\launchpad\Pinned\LibreOffice Calc.lnk">LibreOffice Calc</ico9>
+		<ico10 path="C:\MyDockFinder\launchpad\Pinned\LibreOffice Base.lnk">LibreOffice Base</ico10>
+		<ico11 path="C:\MyDockFinder\launchpad\Pinned\LibreOffice (Safe Mode).lnk">LibreOffice (Safe Mode)</ico11>
+		<ico12 path="C:\MyDockFinder\launchpad\Pinned\Task Manager.lnk">Task Manager</ico12>
+	</page1>
+</pad>
